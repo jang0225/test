@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project1/Project1.vcxproj" Id="93648b5f-5711-4dec-b186-b57f240ad6bf" />
+  <Project Path="Texting Function/Texting Function.vcxproj" Id="1827a39d-21cc-40ea-8515-503a6b03aabb" />
+</Solution>
