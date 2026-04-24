@@ -418,6 +418,7 @@ void parseTerm(const string& s, int& pos,
 
         if (isScalar == true && rem_pos == '*') {
             double scal = (double)res[0][0];
+
             if (r_isScalar == true) {
                 double scal_sec = (double)r_mat[0][0];
                 res[0][0] = scal * scal_sec;
